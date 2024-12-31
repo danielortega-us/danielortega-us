@@ -1,6 +1,5 @@
 <!-- Header -->
-# 👋 Daniel Ortega
-#### 15+ Years of Experience in ML | Backend | Kernel Engineering
+# 👋 15+ Years of Experience in ML | Backend | Kernel Engineering
 
 <br>
 
