@@ -3,7 +3,7 @@
 
 <br>
 
-## 🚀 *Solid Background In*
+## 🚀 *Solid Background In:*
 <table>
   <tr>
     <td>Mathematics</td>
@@ -23,7 +23,7 @@
 
 <br>
 
-## 🚀 *Extensive Experience In*
+## 🚀 *Extensive Experience In:*
 
 <table>
   <tr>
